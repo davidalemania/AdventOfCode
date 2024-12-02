@@ -1,0 +1,6 @@
+#Ignore C++ compiling generated files
+*.exe
+*.obj
+*.pdb
+*.ilk
+.vscode
